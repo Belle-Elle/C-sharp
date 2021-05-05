@@ -1,0 +1,16 @@
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\exemplo console.exe
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\exemplo console.deps.json
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\exemplo console.runtimeconfig.json
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\exemplo console.runtimeconfig.dev.json
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\exemplo console.dll
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\ref\exemplo console.dll
+C:\Users\Rosângela\Documents\backend1\exemplo console\bin\Debug\net5.0\exemplo console.pdb
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.csprojAssemblyReference.cache
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.AssemblyInfoInputs.cache
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.AssemblyInfo.cs
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.csproj.CoreCompileInputs.cache
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.dll
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\ref\exemplo console.dll
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.pdb
+C:\Users\Rosângela\Documents\backend1\exemplo console\obj\Debug\net5.0\exemplo console.genruntimeconfig.cache

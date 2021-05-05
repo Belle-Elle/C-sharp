@@ -1,0 +1,16 @@
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\Console das notas e medias.exe
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\Console das notas e medias.deps.json
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\Console das notas e medias.runtimeconfig.json
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\Console das notas e medias.runtimeconfig.dev.json
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\Console das notas e medias.dll
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\ref\Console das notas e medias.dll
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\bin\Debug\net5.0\Console das notas e medias.pdb
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.csprojAssemblyReference.cache
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.AssemblyInfoInputs.cache
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.AssemblyInfo.cs
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.csproj.CoreCompileInputs.cache
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.dll
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\ref\Console das notas e medias.dll
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.pdb
+C:\Users\Rosângela\Documents\backend1\Console das notas e medias\obj\Debug\net5.0\Console das notas e medias.genruntimeconfig.cache

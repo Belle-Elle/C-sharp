@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Console das notas e medias/1.0.0": {
+        "runtime": {
+          "Console das notas e medias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console das notas e medias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
